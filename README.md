@@ -1,0 +1,1 @@
+# odoo-gcet-hackathon-2026
