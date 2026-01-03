@@ -24,8 +24,9 @@ Authentication: JWT / Sessions
 Version Control: GitHub  
 
 ## Team
-Team Name: (To be updated)  
-Mentor: (To be added)
+Team Leader Name: Jenish Ashokbhai Bambhroliya  
+Mentor: Aman Patel (ampa)  
+GitHub: https://github.com/ampa-odoo
 
 ## Demo Video
 Will be added after submission
